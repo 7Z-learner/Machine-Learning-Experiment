@@ -3,7 +3,7 @@ Records about basic Machine Learning and four experiments
 # 机器学习基本课程实验记录
 
 ## 介绍
-机器学习与模式识别课程学习笔记记录与四次实验的报告记录
+机器学习与模式识别课程四次实验的报告记录
 
 ### 第一次实验报告
  **实验一** ：生成手写数字的特征向量数据集并存盘

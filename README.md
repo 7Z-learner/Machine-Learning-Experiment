@@ -1,5 +1,5 @@
 # Machine-Learning-Experiment
-Records about basic Machine Learning and four experiments
+Records about basic Machine Learning four experiments
 # 机器学习基本课程实验记录
 
 ## 介绍
